@@ -1,6 +1,6 @@
 # Sudoku Puzzle Generator with Solution
 
-This project generates and solves Sudoku puzzles. It can generate puzzles of varying difficulty levels (easy, medium, hard) and save them as both images (PNG format) and CSV files.
+This project generates with solutins Sudoku puzzles. It can generate puzzles of varying difficulty levels (easy, medium, hard) and save them as both images (PNG format) and CSV files.
 
 ## Features
 
